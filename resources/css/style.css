@@ -1,12 +1,12 @@
 body {
     font-family: Verdana, sans-serif;
     text-align: center;
-    background-color: black;
+    background-color: rgb(31, 29, 27);
     color: white;
 }
 
 .cta {
-    color: Aquamarine;
+    color: rgb(105, 212, 177);
     font-size: 16px;
 }
 
